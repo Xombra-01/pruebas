@@ -3,4 +3,22 @@ body {
     text-align: center;
     color: brown;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+
+    border: 1px solid grey;
+    width: 70%;
+    height: 100%;
+    text-align: left;
+    padding: 1rem;
+    margin: 0 auto;
+    
+}
+
+.container h1{
+    text-align: center;
 }
