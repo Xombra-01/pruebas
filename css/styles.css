@@ -8,7 +8,7 @@ body {
     padding: 0;
 }
 
-.container{
+.cabecera{
 
     border: 1px solid grey;
     width: 70%;
@@ -19,6 +19,6 @@ body {
     
 }
 
-.container h1{
+.cabecera h1{
     text-align: center;
 }
