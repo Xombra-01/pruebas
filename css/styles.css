@@ -19,6 +19,27 @@ body {
     
 }
 
+
 .container h1{
     text-align: center;
+}
+.container p{
+    text-align: justify;
+}
+
+.cabecera {
+
+    width: 100%;
+    background-color: blue;
+    -webkit-box-shadow: -10px 32px 17px 9px rgba(21,217,171,0.73);
+    -moz-box-shadow: -10px 32px 17px 9px rgba(21,217,171,0.73);
+    box-shadow: -10px 32px 17px 9px rgba(21,217,171,0.73);
+    text-align: center;
+}
+.cabecera span{
+
+    font-size: 25px;
+    color: #ffffff;
+    text-align: center;
+    justify-content: center;
 }
